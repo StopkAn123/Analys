@@ -1,0 +1,1 @@
+foor (my_var:=III;my_var<X;my_var) doo;

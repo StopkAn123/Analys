@@ -1,0 +1,1 @@
+for (a := IIII; a < V; a := a ) do;  

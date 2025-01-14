@@ -1,0 +1,1 @@
+for (my_var:=I;my_var<X;my_var) do; //Комментарий
